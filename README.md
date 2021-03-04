@@ -3,6 +3,7 @@
 333
 
 555
+666
 
 Comprehensive Python Cheatsheet
 ===============================
